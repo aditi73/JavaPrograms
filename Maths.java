@@ -1,0 +1,4 @@
+interface Area
+{
+	void show();
+}
